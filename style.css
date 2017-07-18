@@ -1611,7 +1611,7 @@ Google Map
   background-color: #2ECC71;
   background-repeat: no-repeat;
   background-size: 32px 64px;
-  background-image: url("assets/images/cd-icon-controller.svg");
+  background-image: url("../assets2/images/cd-icon-controller.svg");
 }
 .no-touch #cd-zoom-in:hover, .no-touch #cd-zoom-out:hover {
   background-color: #010100;
